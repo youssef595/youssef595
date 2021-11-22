@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssef_benallal
 - 👀 I’m interested in Data Science and Data engineering
-- 🌱 I’m an engineering student in EMINES School of Industrial Management, i'm currently following an intense 3 month program covering a variety of datascience topics.
+- 🌱 I’m an engineering student in EMINES School of Industrial Management, i'm currently following an intense 3 month program covering a variety of datascience topics
 - 📫 Reach me at: youssef.benallal@emines.um6p.ma
 
 <!---
